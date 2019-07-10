@@ -1,4 +1,4 @@
-# SBMPTN-DATA-SCRAPPING-DAN-HASIL-KELULUSAN
+# SBMPTN-DATA-SCRAPING-DAN-HASIL-KELULUSAN
 > Mengoleksi data mentah untuk memudahkan penganalisisan.
 ### Feature
 - Only scraping and cleaning.
