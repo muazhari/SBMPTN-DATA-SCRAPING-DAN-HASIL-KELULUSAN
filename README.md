@@ -9,7 +9,7 @@ $ pip install -r requirements.txt
 ```
 
 # Usage
-Runtime depends on your hardware and connection.
+Runtime depends on your hardware, connection, and especially the website.
 ```sh
 $ python main.py
 ```
