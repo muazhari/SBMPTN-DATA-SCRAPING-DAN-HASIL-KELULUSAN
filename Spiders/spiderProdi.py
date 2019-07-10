@@ -24,7 +24,7 @@ class spiderProdi(scrapy.Spider):
     base_url = 'https://sbmptn.ltmpt.ac.id/'
 
     fileFormat = 'csv'
-    fileName = 'spiderProdi' + '.' + fileFormat
+    fileName = 'dataProdi' + '.' + fileFormat
     fileAvailable = os.path.isfile(fileName)
 
     if fileAvailable:
