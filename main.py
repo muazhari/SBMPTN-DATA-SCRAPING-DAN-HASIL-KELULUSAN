@@ -19,7 +19,7 @@ def main():
                            for file in spidersNFiles.values())
 
     if not(isFilesAvailable):
-        spiders = list(spidersFiles.keys())
+        spiders = list(spidersNFiles.keys())
         crawlSpiders._crawl(spiders[0])
         crawlSpiders.run(spiders[1:])
 

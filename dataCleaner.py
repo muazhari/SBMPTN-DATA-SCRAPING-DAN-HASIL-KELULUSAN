@@ -12,7 +12,7 @@ def excludeStr(strList, strToExclude):
 class text:
     def __init__(self, file):
         self.data = {
-            'nomor_peserta': [a],
+            'nomor_peserta': [],
             'nama': [],
             'kode_prodi': []
         }
